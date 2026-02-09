@@ -20,3 +20,5 @@ body{
     overflow: hidden;
     text-align: center;
     padding: 30px;
+    width: auto;
+}
