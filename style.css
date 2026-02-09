@@ -7,3 +7,5 @@
 body{
     font-family: sans-serif;
     background: linear-gradient(120deg,#3494e6,#ec6ead);
+    display: flex;
+    align-items: center;
