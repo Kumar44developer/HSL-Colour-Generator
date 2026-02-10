@@ -12,3 +12,4 @@ document.addEventListener("DOMContentLoaded",function(){
 
     hueInput.addEventListener('input',updateColor);
     saturationInput.addEventListener('input',updateColor);
+    lightnessInput.addEventListener('input',updateColor);
