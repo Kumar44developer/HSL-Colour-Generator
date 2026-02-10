@@ -61,3 +61,5 @@ h1{
 label{
     width: 50px;
     font-weight: bold;
+    text-align: left;
+}
