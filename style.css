@@ -38,4 +38,5 @@ h1{
 }
 
 .controls{
+    display: flex;
 
