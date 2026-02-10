@@ -52,3 +52,5 @@ h1{
 
 .slider-container{
     display: flex;
+    align-items: center;
+
