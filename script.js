@@ -8,3 +8,5 @@ document.addEventListener("DOMContentLoaded",function(){
     const lightnessValueSpan = document.getElementById("lightnessValue");
 
    const colorDisplay = document.querySelector(".color-display");
+    const copyButton = document.getElementById("copyButton");
+
