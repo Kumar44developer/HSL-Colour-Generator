@@ -4,3 +4,4 @@ document.addEventListener("DOMContentLoaded",function(){
     const lightnessInput = document.getElementById("lightness");
 
     const hueValueSpan = document.getElementById("hueValue");
+    const saturationValueSpan = document.getElementById("saturationValue");
