@@ -6,3 +6,5 @@ document.addEventListener("DOMContentLoaded",function(){
     const hueValueSpan = document.getElementById("hueValue");
     const saturationValueSpan = document.getElementById("saturationValue");
     const lightnessValueSpan = document.getElementById("lightnessValue");
+
+   const colorDisplay = document.querySelector(".color-display");
