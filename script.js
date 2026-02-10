@@ -10,3 +10,4 @@ document.addEventListener("DOMContentLoaded",function(){
    const colorDisplay = document.querySelector(".color-display");
     const copyButton = document.getElementById("copyButton");
 
+    hueInput.addEventListener('input',updateColor);
