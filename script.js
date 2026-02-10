@@ -17,3 +17,4 @@ document.addEventListener("DOMContentLoaded",function(){
     updateColor();
                           
     function updateColor(){
+        const hue = hueInput.value;
