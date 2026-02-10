@@ -11,3 +11,4 @@ document.addEventListener("DOMContentLoaded",function(){
     const copyButton = document.getElementById("copyButton");
 
     hueInput.addEventListener('input',updateColor);
+    saturationInput.addEventListener('input',updateColor);
