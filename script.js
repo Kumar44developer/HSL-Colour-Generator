@@ -28,3 +28,7 @@ document.addEventListener("DOMContentLoaded",function(){
         lightnessValueSpan.textContent = lightness;
 
     }
+
+    copyButton.addEventListener("click",copyToClipboard);
+
+    
