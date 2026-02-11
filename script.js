@@ -24,3 +24,4 @@ document.addEventListener("DOMContentLoaded",function(){
         colorDisplay.style.backgroundColor = color;
 
             hueValueSpan.textContent = hue;
+        saturationValueSpan.textContent = saturation;
