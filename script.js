@@ -22,3 +22,5 @@ document.addEventListener("DOMContentLoaded",function(){
         const lightness = lightnessInput.value;
         const color = `hsl(${hue}, ${saturation}%, ${lightness}%)`
         colorDisplay.style.backgroundColor = color;
+
+            hueValueSpan.textContent = hue;
