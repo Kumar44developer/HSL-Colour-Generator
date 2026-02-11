@@ -19,3 +19,4 @@ document.addEventListener("DOMContentLoaded",function(){
     function updateColor(){
         const hue = hueInput.value;
         const saturation = saturationInput.value;
+        const lightness = lightnessInput.value;
