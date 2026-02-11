@@ -35,3 +35,4 @@ document.addEventListener("DOMContentLoaded",function(){
     
         const textToCopy = `hsl(${hueInput.value}, ${saturationInput.value}%, ${lightnessInput.value}%)`;
         navigator.clipboard.writeText(textToCopy).then(function(){
+            alert("The color is copied to Clipboard")
