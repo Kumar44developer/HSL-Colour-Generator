@@ -30,5 +30,6 @@ document.addEventListener("DOMContentLoaded",function(){
     }
 
     copyButton.addEventListener("click",copyToClipboard);
+    function copyToClipboard(){
 
     
