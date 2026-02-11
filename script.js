@@ -37,3 +37,10 @@ document.addEventListener("DOMContentLoaded",function(){
         navigator.clipboard.writeText(textToCopy).then(function(){
             alert("The color is copied to Clipboard")
         }).catch(function(err){
+
+            console.error("Unable to Copy the Data",err);
+        });
+
+    }
+
+});
