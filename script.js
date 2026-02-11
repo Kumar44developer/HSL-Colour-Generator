@@ -33,3 +33,4 @@ document.addEventListener("DOMContentLoaded",function(){
     function copyToClipboard(){
 
     
+        const textToCopy = `hsl(${hueInput.value}, ${saturationInput.value}%, ${lightnessInput.value}%)`;
