@@ -25,3 +25,6 @@ document.addEventListener("DOMContentLoaded",function(){
 
             hueValueSpan.textContent = hue;
         saturationValueSpan.textContent = saturation;
+        lightnessValueSpan.textContent = lightness;
+
+    }
